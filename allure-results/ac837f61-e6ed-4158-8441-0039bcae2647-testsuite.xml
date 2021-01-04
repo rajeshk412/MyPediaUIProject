@@ -1,0 +1,31 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1609743489084' stop='1609743545081'>
+    <name>Verify the website for languages and selection</name>
+    <title>Verify the website for languages and selection</title>
+    <test-cases>
+        <test-case start='1609743489084' status='passed' stop='1609743502300'>
+            <name>Verify the number of languages available</name>
+            <title>Verify the number of languages available</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1609743502300' status='passed' stop='1609743521557'>
+            <name>Verify the selection of languages chnages the continue button text</name>
+            <title>Verify the selection of languages chnages the continue button text</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1609743521557' status='passed' stop='1609743545079'>
+            <name>Validate parent link registration</name>
+            <title>Validate parent link registration</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

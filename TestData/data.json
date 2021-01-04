@@ -1,0 +1,10 @@
+{
+    "environment": "https://www.mypedia.pearson.com/",
+    "size":3,
+    "firstname":"Rajesh",
+    "lastname":"Kulkarni",
+    "emailId":"rajeshk412@gmail.com",
+    "parentUsername":"Rajeshkulkarni",
+    "password":"test",
+    "captcha":"tests"
+  }
